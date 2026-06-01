@@ -1,0 +1,37 @@
+         ▄▄▄▄▄▄   ▄▄▄   ▄▄▄ ▄▄▄   ▄▄▄   ▄▄▄▄   ▄▄▄   ▄▄▄  ▄▄▄▄▄▄▄    ▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄  
+         ███▀▀██▄ ███   ███ ███   ███ ▄██▀▀██▄ ████▄████ ███▀▀▀▀▀   ███▀▀▀▀▀ ▀▀▀▀████ 
+         ███  ███ ▀███▄███▀ ▀███▄███▀ ███  ███  ▀█████▀  ███▄▄      ███         ▄██▀  
+         ███  ███   ▀███▀     ▀███▀   ███▀▀███ ▄███████▄ ███        ███       ▄███▄▄▄ 
+         ██████▀     ███       ███    ███  ███ ███▀ ▀███ ▀███████   ▀███████ ████████ @V1
+                                                                         
+[=============================================]---[L-7]---[=============================================]
+|| 1. dos        || HTTP(s) Banjir DoS       ||           || 21.destroy    || Bunuh Soket              ||
+|| 2. tls        || TLS 1.3                  ||           || 22.slim       || Cocok Di Sana            ||
+|| 3. strike     || Metode DDoS terbaik      ||           || 23.priv       || Gtw                      ||
+|| 4. kill       || Lewati metode Cf DDoS    ||           || 24.r2         || Error                    ||
+|| 5. raw        || RPS Besar Melenturkan XD ||           || 25.axo        || By dyy                   ||
+|| 6. bypass     || Bypass Dengan Daya Tinggi||           || 26.axov2      || V2     max 24h           ||
+|| 7. thunder    || Metode Kekuatan Besar    ||           || 27.axov3      || V3     max 60x           ||
+|| 8. storm      || Permintaan Hujan         ||           || 28.axov4      || New v4 max 3600x         ||
+|| 9. rape       || Lewati Perlindungan      ||           || 29.gret       || VVIP BY DYY              ||
+|| 10.gretv2     || V2 tanpa MVG             ||           || 30.cph        || Chaptcha bypass          ||
+|| 11.tlsv2      || TLS VIP 2022             ||           || 31.http2      || HTTP-X hard              ||
+|| 12.sh         || Shder L7                 ||           || 32.httpv4     || HTTPVIP                  ||
+|| 13.lev        || Kesulitan layanan        ||           || 33.https      || Permintaan HTTPS         ||
+|| 14.bp         || FloodV2                  ||           || 34.jawa       || TCP made JAVA            ||
+|| 15.h2         || HTTP2                    ||           || 35.h2rand     || HTTPS RNAD               ||
+|| 16.yk         || Kepala                   ||           || 36.arz        || Cloud-pelerr bypass      ||
+|| 17.h2req      || Permintaan HTTPS         ||           || 37.sb         || Super BYPASS-L7          ||
+|| 18.zen        || HTTP-Super               ||           || 38.sp         || Super TLS                ||
+|| 19.legacy     || TLS V3                   ||           || 39.mixmax     || Perusak Digital          ||
+|| 20.tlsv4      || TLS V4                   ||           || 40.hpc        || HPC Avalanche            ||
+[=============================================]           [=============================================]
+╔----------------------------------------------------------------------------------╗
+|CATATAN : sebelum melakukan serangan ddos/dos harap melakukan riset terhadap      |
+|web / server yg ingin di attack, dan sesuaikan dengan kebutuhan!                  |
+|perlu di ingat semua methods ddos di atas memiliki power tinggi yang              |
+|dapat merusak server penyrang ataupun yang di serang, harap menggunakan PANEL     |
+|atau VPS, tidak di sarankan menggunakan termux karna akan memendekan umur pada    |
+|ponsel (hard).                                                                    |
+|Example : attack https://example.com/ 120 httpv4                                  |
+╚----------------------------------------------------------------------------------╝

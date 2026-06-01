@@ -1,0 +1,45 @@
+⣠⣤⣤⡤⠤⢤⣤⣀⡀⠀⠐⠒⡄⠀⡠⠒⠀⠀⢀⣀⣤⠤⠤⣤⣤⣤⡄   
+⠈⠻⣿⡤⠤⡏⠀⠉⠙⠲⣄⠀⢰⢠⠃⢀⡤⠞⠋⠉⠈⢹⠤⢼⣿⠏⠀  「 ✮⋆ DYYAXE C2 ⋆˙⟡ 」
+⠀⠀⠘⣿⡅⠓⢒⡤⠤⠀⡈⠱⣄⣼⡴⠋⡀⠀⠤⢤⡒⠓⢬⣿⠃⠀⠀  —͟͟͞͞★ t.me/DyyRoawr
+⠀⠀⠀⠹⣿⣯⣐⢷⣀⣀⢤⡥⢾⣿⠷⢥⠤⣀⣀⣞⣢⣽⡿⠃⠀⠀⠀ ᯓ☆ version 2.0
+⠀⠀⠀⠀⠈⢙⣿⠝⠀⢁⠔⡨⡺⡿⡕⢔⠀⡈⠐⠹⣟⠋⠀     ⸝⸝ HARD ATTACK & VVIP CNC
+⠀⠀⠀⠀⠀⢼⣟⢦⢶⢅⠜⢰⠃⠀⢹⡌⢢⣸⠦⠴⣿⠀⠀⠀       
+⠀⠀⠀⠀⠀⠘⣿⣇⡬⡌⢀⡟⠀⠀⠀⢷⠀⣧⢧⣵⣿⠂⠀⠀       
+⠀⠀⠀⠀⠀⠀⠈⢻⠛⠋⠉⠀⠀⠀⠀⠈⠉⠙⢻⡏⠀⠀⠀⠀       
+⠀⠀⠀⠀⠀⠀⢰⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀               
+ 
+> type code (C)=low (D)=medium (R)=high | sesuaikan spek vps/panel
+╔L-7════════════════════════════════════════════════════════════════════════════TYPE═════╗
+| ah2            ~ BOOM  HTTP/2 x TLS 1.3 packer (DYYPREMIUM)                    (R)     |
+| bot            ~ Simple DoS Bot search engine spoofing (GET methods)           (C)     |
+| browserkiller  ~ BOOM HTTP/1.1 atau HTTP/2                                     (D)     |
+| browsern       ~ CF BYPASS Flood HTTP                                          (C)     |
+| httpios        ~ Bypass X flooder                                              (C)     |
+| fix            ~ HTTP/2 CF Bypass BOOMBER                                      (D)     |
+| h2blast        ~ HTTP/2 DDoS SUPER BLAST BYPASS CLOUDFLARE                     (C)     |
+| h2fury         ~ HTTP/2 (CVE-2023-44487 Rapid Reset) (GET methods)             (D)     |
+| h2hold         ~ Browser Emulation DDoS                                        (D)     |
+| h2jouma        ~ Junk-Overload Malformed-Array DDoS                            (R)     |
+| hold           ~ Hybrid Overload with Legacy Documentation (GET methods)       (R)     |
+| http1          ~ HTTP/HTTPS PROXY-BASED                                        (D)     |
+| http2r         ~ HTTP/2 dengan exploit Rapid Reset (CVE-2023-44487)            (R)     |
+| httpcostum     ~ Badai HTTP/HTTPS mutasi protokol menghujani gelombang request (R)     |
+| httpsr         ~ Tsunami request dengan mutasi cipher suite                    (D)     |
+| hybrid         ~ Peluru fragmentasi (multi-protocol)                           (R)     |
+| litls          ~ Peluru armor-piercing (TLS penetration)                       (R)     |
+| makubrow       ~ Sniper + artillery (precision + volume)                       (D)     |
+| mixbil         ~ Peluru incendiary (protocol fuzzing)                          (R)     |
+| mixed          ~ Ribuan permintaan X multi-X                                   (D)     |
+| part           ~ HTTP/2 attack dengan JA3 fingerprint randomization            (R)     |
+| reset          ~ Multi-protocol Cloudflare Bypass dengan cf_clearance forging  (D)     |
+| tlsr           ~ Bypass WAF                                                    (D)     |
+| tlsbypass      ~ Bypass TLS inspection & WAF dengan fingerprint randomization  (D)     |
+| vrenb          ~ Multi-target dengan sistem re-routing otomatis                (D)     |
+| vflood         ~ Penembak berantai dengan sistem reload otomatis               (D)     |
+| vortex         ~ Swiss Army knife dengan timer self-destruct. 2025-2050        (R)     |
+╚════════════════════════════════════════════════════════════════════════════════════════╝
+╔----------------------------------------------------------------------------------------╗
+|CATATAN : ketik tor untuk memahami maksud dari code type (C)/(D)/(R) |  DEVELOPER:      |
+|agar tidak melakukan kesalahan yang fatal.                           |  t.me/DyyRoawr   |
+|Example : attack https://example.com/ 60 ah2                         |  +6285893299132  |
+╚----------------------------------------------------------------------------------------╝

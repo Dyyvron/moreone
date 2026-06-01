@@ -1,0 +1,57 @@
+⣠⣤⣤⡤⠤⢤⣤⣀⡀⠀⠐⠒⡄⠀⡠⠒⠀⠀⢀⣀⣤⠤⠤⣤⣤⣤⡄  
+⠈⠻⣿⡤⠤⡏⠀⠉⠙⠲⣄⠀⢰⢠⠃⢀⡤⠞⠋⠉⠈⢹⠤⢼⣿⠏⠀  
+⠀⠀⠘⣿⡅⠓⢒⡤⠤⠀⡈⠱⣄⣼⡴⠋⡀⠀⠤⢤⡒⠓⢬⣿⠃⠀
+⠀⠀⠀⠹⣿⣯⣐⢷⣀⣀⢤⡥⢾⣿⠷⢥⠤⣀⣀⣞⣢⣽⡿⠃  R/C/M [RAM]/[CORE][MEMORY]
+⠀⠀⠀⠀⠈⢙⣿⠝⠀⢁⠔⡨⡺⡿⡕⢔⠀⡈⠐⠹⣟⠋⠀⠀  JANGAN MINIM LITERASI YA KIDS><
+⠀⠀⠀⠀⠀⢼⣟⢦⢶⢅⠜⢰⠃⠀⢹⡌⢢⣸⠦⠴⣿⠀⠀⠀   
+⠀⠀⠀⠀⠀⠘⣿⣇⡬⡌⢀⡟⠀⠀⠀⢷⠀⣧⢧⣵⣿⠂⠀⠀      
+⠀⠀⠀⠀⠀⠀⠈⢻⠛⠋⠉⠀⠀⠀⠀⠈⠉⠙⢻⡏⠀⠀⠀⠀     
+⠀⠀⠀⠀⠀⠀⢰⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀               
+
+╔NEWS-upload-21/12/2025══════════════════════════════════════════════════════════════════╗
+| code (C)=low (D)=medium (R)=high |  > itu semua saran dari saya untuk spesifikasi yang |
+|══════════════════════════════════|  dibutuhkan *untuk menjalankan methods DDoS/DoS*    |
+| CODE | SPEK YANG DI BUTUHKAN     |  dengan type nya. Lalu bagaimana jika menjalankan   |
+| C    | R8/C8/250GB+              |  methods DDoS/DoS dengan type (R) di VPS/PANEL spek |
+| D    | R16/C32/500GB+            |  R8/C8? atau bahkan di bawah nya?.                  |
+| R    | R32/C64/1TB+              |  JAWAB TEGAS DARI SAYA : DDoS/DoS GA WORK DAN VPS   |
+|══════════════════════════════════|  ATAU PANEL AKAN MATI DULUAN SEBELUM PAKET TERKIRIM |
+| NOTE:                            0═════════════════════════════════════════════════════|
+| anda dapat memndapatkan VPS dengan spek type (C)-(D) Type di toko online/ pedagang     |
+| online, namun untuk type (R) kamu perlu membeli layanan dengan spek costum, dengan VPS |
+| fisik yang sangat di rawat.                                                            |
+| Dan jangan lupa agar selalu sefty dan memakai tools secara bertanggung jawab dan hanya |
+| di pakai untuk pentesting saja. sampai jumpa!                                          |
+| ketik hard untuk kembali ke menu V2, dan ketik menu untuk kembali ke menu V1           |
+|════════════════════════════════════════════════════════════════════════════════════════|
+| sebelum melakukan serangan DDoD/DoS harap melakukan riset terhadap                     |
+| web / server yg ingin di attack, dan sesuaikan dengan kebutuhan!                       |
+| perlu di ingat semua methods DDoS/DoS di versi 1/2 memiliki power tinggi yang          |
+| dapat merusak server penyrang ataupun yang di serang, harap menggunakan PANEL          |
+| atau VPS, tidak di sarankan menggunakan termux karna akan memendekan umur pada ponsel. |
+|══════════════════════════════════0  Semoga di baca biar faham janagn minim literasi.   |
+| node support                     |═════════════════════════════════════════════════════|
+| $ nodejs V20.xx.x                | Bantu Developer buat beli kopi                      |
+| $ -package.json list module      | Shopeepay : 0858****9132                            |
+|══════════════════════════════════| Gopay : 0858****9132                                |
+| $ check cms url--                | Dana : 0858****9132                                 |
+| > https://whatcms.org/           | Ovo : 0858****9132                                  |
+| $ check host url--               |═══════════════════════════════════════DYYEXE-SHOPE══|
+| > https://check-host.net/        | DYYEXE SHOPE - DYYAXE MENYEDIAKAN LAYANAN DAN JASA  |
+|══════════════════════════════════0------UPDATE-21/12/2025------------------------------|
+| > DDoS/DoS DYYAXE C2 60+ methods DDoS/DoS NO ENC 100% 300k                             |
+| > ALAT SADAP PONSEL SUPORT NEW SMS OLD SMS ALL NOTIFICATION DLL 50K                    |
+| > ALAT RAT BUILDER / CRAXSRAT 7.4 / EAGLE / ANONYMOUS RAT SUPPORT ANDROID 8-15 400-700K|
+| > PAKET APK SADAP / SADAP GALERY + SADAP SMS + SADAP KONTAK + SADAP LOKASI 50K         |
+| > DEVLOC C2 KONTROL DAN KUNCI LAPTOP / KOMPUTER DENGAN KONTROL C2 (ROOTKIT) 150K       |
+| > EXE TO JPG/PNG/MOV/MP4/MP3/PDF EXPLOITASI APLIKASI KOMPUTER MENJADI BACKDOR 20K      |
+| > WORM GPT / CACING GPT DENGAN API DARI DARK AI TANPA JAILBREAK MODEL DARK AI 60K      |
+| > MALWARE BUILDER, BUAT APK MALWARE DENGAN KOSTUMISASI BEBAS 40K                       |
+| > PANEL PETRO SPEK R32/C64/2TB ONLY UNLI USER 98K (server fisik)                       |
+| > RAT ANDROID SUPPORT ANDROID 7-16, HACK SMS, HACK GMAIL, HACK NOTIFICATION, HACK      |
+| AKSESIBILITY, HACK CAMERA, READ DIRECTORY DLL ONLY 30K                                 |
+| > JASA ADD METHODS DDOS ATAU RECODE SKRIP DDOS [ HARGA TERGANTUNG REQUESTS ]           |
+| > JASA ENCRYPTED KODE HARD 2K  0═══════════════════════════════════════════════════════|
+| > FUD METHODS 2016 3K          |   TOOLS UPDATE DATE 22/12/2025                        |
+| > APK DEPLOY 3K                |                        CODE PRODUKSI E84490           |
+╚════════════════════════════════════════════════════════════════════════════════════════╝
